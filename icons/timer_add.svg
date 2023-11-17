@@ -1,0 +1,11 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Calendar / Timer_Add">
+<path id="Vector" d="M40 56V44M40 44V32M40 44H28M40 44H52M76 16L68 8M32 0H48M40 76C22.3269 76 8 61.6731 8 44C8 26.3269 22.3269 12 40 12C57.6731 12 72 26.3269 72 44C72 61.6731 57.6731 76 40 76Z" stroke="url(#paint0_linear_624_9632)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_624_9632" x1="21.6323" y1="64.8589" x2="75.3731" y2="3.65812" gradientUnits="userSpaceOnUse">
+<stop stop-color="#015FEA"/>
+<stop offset="1" stop-color="#00DBF9"/>
+</linearGradient>
+</defs>
+</svg>

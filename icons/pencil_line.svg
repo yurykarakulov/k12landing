@@ -1,0 +1,11 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Edit / Edit_Pencil_Line_01">
+<path id="Vector" d="M13.3334 66.6669H66.6667M13.3334 66.6669V53.3336L40 26.6669M13.3334 66.6669L26.6667 66.6668L53.3333 40.0002M40 26.6669L49.5621 17.1047L49.5679 17.099C50.8842 15.7828 51.5435 15.1235 52.3035 14.8765C52.973 14.659 53.6942 14.659 54.3636 14.8765C55.1231 15.1233 55.7817 15.7818 57.0961 17.0963L62.8954 22.8956C64.2154 24.2156 64.8758 24.876 65.1231 25.6371C65.3406 26.3065 65.3405 27.0277 65.123 27.6972C64.8759 28.4577 64.2165 29.117 62.8984 30.4352L62.8955 30.438L53.3333 40.0002M40 26.6669L53.3333 40.0002" stroke="url(#paint0_linear_668_1072)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_668_1072" x1="24.0253" y1="59.0508" x2="59.7869" y2="12.3249" gradientUnits="userSpaceOnUse">
+<stop stop-color="#015FEA"/>
+<stop offset="1" stop-color="#00DBF9"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Interface / Swicht_Right">
+<g id="Vector">
+<path d="M16 36H32C38.6274 36 44 30.6274 44 24C44 17.3726 38.6274 12 32 12H16C9.37258 12 4 17.3726 4 24C4 30.6274 9.37258 36 16 36Z" stroke="url(#paint0_linear_624_9567)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 18C28.6863 18 26 20.6863 26 24C26 27.3137 28.6863 30 32 30C35.3137 30 38 27.3137 38 24C38 20.6863 35.3137 18 32 18Z" stroke="url(#paint1_linear_624_9567)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_624_9567" x1="12.019" y1="32.4817" x2="25.2208" y2="4.47644" gradientUnits="userSpaceOnUse">
+<stop stop-color="#015FEA"/>
+<stop offset="1" stop-color="#00DBF9"/>
+</linearGradient>
+<linearGradient id="paint1_linear_624_9567" x1="12.019" y1="32.4817" x2="25.2208" y2="4.47644" gradientUnits="userSpaceOnUse">
+<stop stop-color="#015FEA"/>
+<stop offset="1" stop-color="#00DBF9"/>
+</linearGradient>
+</defs>
+</svg>
